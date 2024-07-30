@@ -1,0 +1,3 @@
+﻿  chuan.cpp
+D:\C++\chuan\chuan\chuan.cpp(73): warning C4715: “String::operator=”: 不是所有的控件路径都返回值
+  chuan.vcxproj -> D:\C++\chuan\x64\Debug\chuan.exe
