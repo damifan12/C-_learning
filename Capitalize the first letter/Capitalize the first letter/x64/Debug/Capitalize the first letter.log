@@ -1,0 +1,3 @@
+﻿  Capitalize the first letter.cpp
+D:\C++\Capitalize the first letter\Capitalize the first letter\Capitalize the first letter.cpp(9,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Capitalize the first letter.vcxproj -> D:\C++\Capitalize the first letter\x64\Debug\Capitalize the first letter.exe
